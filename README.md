@@ -1,2 +1,3 @@
 # mergetest
-npg test
+npg 1 test
+töltsdfel a sort :D
