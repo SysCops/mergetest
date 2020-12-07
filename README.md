@@ -1,1 +1,2 @@
 # mergetest
+npg test
