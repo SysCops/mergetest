@@ -9,3 +9,4 @@ töltsdfel a sort :D
 nekem ez jo
 
 pedig elfogod fogadni
+asdasd
